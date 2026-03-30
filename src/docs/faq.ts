@@ -65,7 +65,7 @@ export const faqColTwo: faqCol = [
 
     question: "When can I apply?",
     answer:
-      "Sign up at our application center starting February 16th 2026 and before 11:59 PM on March 22nd 2026 to make sure you don't miss out!",
+      "Sign up at our application center starting February 16th 2026 and before 11:59 PM on March 29th 2026 to make sure you don't miss out!",
       // "Applications for participants, volunteers, mentors, judges, and guest speakers hasn't opened yet.",
   },
   {
@@ -114,6 +114,14 @@ export const faqColThree: faqCol = [
       " This is a big event, so we'd be very grateful for your help if you're available during some parts or all of MariHacks—food and drinks will be provided for free." +
       " Sign up to be a volunteer through our application center!",
     // Volunteer registration is currently closed.",
+  },
+  {
+    index: 15,
+
+    question: "What are the policies regarding AI usage?",
+    answer:
+      "Use of Generative AI will be allowed for specific tracks only." +
+      " The specific guidelines will be revealed during the Opening Ceremony." 
   },
 
   {
